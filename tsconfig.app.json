@@ -36,6 +36,7 @@
     "types.ts",
     "constants",
     "convex",
+    "convexfrontend",
     "site.config.ts",
     "errors.ts"
   ]
