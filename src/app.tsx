@@ -23,7 +23,7 @@ export default function App() {
     <HelmetProvider context={helmetContext}>
       <QueryClientProvider client={queryClient}>
         <InnerApp />
-      </QueryClienProvider>
+      </QueryClientProvider>
     </HelmetProvider>
   );
 }
